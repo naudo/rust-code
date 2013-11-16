@@ -1,0 +1,16 @@
+// fn main() {
+// 	do 10.times { 
+// 		do  spawn { 
+// 			let greeting_message = "Hello";
+// 			println(greeting_message);
+// 		}
+// 	}
+
+// }
+
+
+#[test]
+fn this_tests_code() {
+  println("")
+}
+
